@@ -1,0 +1,56 @@
+body{
+  background: linear-gradient(to right, orange, chocolate);
+}
+h1{
+    text-align: center;
+    color:snow
+}
+h2{
+    color:lightgoldenrodyellow;
+    
+}
+ol.romano{
+    list-style-type: upper-roman;
+}
+li{
+    font-size: 20px;
+}
+li.a{
+    list-style-type:lower-greek
+}
+li.b{
+    list-style-type: square;
+}
+.emocionado{
+    list-style-image: url(1f979.png);
+}
+.coracao{
+    list-style-image: url(2764.png);
+}
+.contede{
+    list-style-image: url(1f60e.png);
+}
+.vergonha{
+    list-style-image: url(1f633.png);
+}
+.rosto{
+    list-style-image: url(1f643.png);
+}
+.none{
+    list-style-type: none;
+}
+.proibido{
+    list-style-image: url(pedestre.png);
+}
+.estaciona{
+    list-style-image: url(proibidoestacionar.png);
+}
+.esquerda{
+    list-style-image: url(naovireesquerda.png);
+}
+.velocidade{
+    list-style-image: url(limitedevelocidade.png);
+}
+.carro{
+    list-style-image: url(carro.png);
+}
